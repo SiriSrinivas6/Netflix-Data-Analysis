@@ -22,3 +22,19 @@ This project involves Python-based data analysis on a Netflix dataset using Pand
 
 ## Trend of Content Produced on Netflix on Every Year
 ![Content](https://github.com/SiriSrinivas6/Netflix-Data-Analysis/blob/dbc057457c3bb6d77341d8019dba45968b2d0c6c/Screenshots/4.png)
+
+## File Details
+### File Head:
+Display the first few rows of the dataset.
+
+### File Shape:
+Show the dimensions (rows, columns) of the dataset.
+
+### File Count:
+Display the count of non-null values in each column.
+
+### File Size:
+Display the size of the dataset in terms of rows and columns.
+
+Data File
+The netflix_data.csv file contains the dataset used for analysis.

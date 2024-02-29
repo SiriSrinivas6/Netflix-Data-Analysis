@@ -8,12 +8,8 @@ This project involves Python-based data analysis on a Netflix dataset using Pand
 ## Features
 
 - **Top Directors and Actors:** Discover the top 5 directors and actors featured in the Netflix dataset.
-- ![Directors]()
 - **File Statistics:** Explore file information such as headers, shape, count, and size.
 - **Data Visualization:** Utilize Matplotlib for visualizing relevant data.
 
-## Usage
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/<your_username>/<your_project_name>.git
+## Content Ratings
+![Ratings](https://github.com/SiriSrinivas6/Netflix-Data-Analysis/blob/19edca1cdb00c1382998c29828adbfd45eea404d/Screenshots/1.png)

@@ -38,3 +38,6 @@ Display the size of the dataset in terms of rows and columns.
 
 ## Data File
 The 'https://github.com/SiriSrinivas6/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis%20.ipynb' file contains the dataset used for analysis.
+
+## Author
+'SiriSrinivas6'

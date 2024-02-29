@@ -13,3 +13,12 @@ This project involves Python-based data analysis on a Netflix dataset using Pand
 
 ## Content Ratings
 ![Ratings](https://github.com/SiriSrinivas6/Netflix-Data-Analysis/blob/19edca1cdb00c1382998c29828adbfd45eea404d/Screenshots/1.png)
+
+## Top 5 Directors on Netflix
+![Directors](https://github.com/SiriSrinivas6/Netflix-Data-Analysis/blob/817aae17f3eb2e5d55bb2630546196c46a7352d5/Screenshots/2.png)
+
+## Top 5 Actors on Netflix
+![Actors]()
+
+## Trend of Content Produced on Netflix on Every Year
+![Content]()

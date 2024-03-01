@@ -24,17 +24,11 @@ This project involves Python-based data analysis on a Netflix dataset using Pand
 ![Content](https://github.com/SiriSrinivas6/Netflix-Data-Analysis/blob/dbc057457c3bb6d77341d8019dba45968b2d0c6c/Screenshots/4.png)
 
 ## File Details
-### File Head:
-Display the first few rows of the dataset.
+File Head 
+File Shape
+File Count
+File Size
 
-### File Shape:
-Show the dimensions (rows, columns) of the dataset.
-
-### File Count:
-Display the count of non-null values in each column.
-
-### File Size:
-Display the size of the dataset in terms of rows and columns.
 
 ## Data File
 The 'https://github.com/SiriSrinivas6/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis%20.ipynb' file contains the dataset used for analysis.
